@@ -386,7 +386,8 @@ h1, h2, h3, h4, h5,
       bottom: 0;
       z-index: 0;
       width: 100%;
-      background: rgba(0, 166, 81, 0.9); }
+      background: rgba(240, 94, 20, 0.43);
+      }
   .bg-image > .container {
     position: relative;
     z-index: 1; }
@@ -1730,7 +1731,7 @@ h1, h2, h3, h4, h5,
     .feature-29192-wrap .feature-29192.overlay-danger:before {
       background-color: #ff6307; }
     .feature-29192-wrap .feature-29192.overlay-success:before {
-      background-color: #ffffff69; }
+      background-color: #fff; }
     .feature-29192-wrap .feature-29192.overlay-warning:before {
       background-color: rgba(0, 166, 81, 0.9); }
   .feature-29192-wrap .text {
