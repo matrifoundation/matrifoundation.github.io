@@ -163,7 +163,9 @@ html {
 
 .border-w-1 {
   border-width: 1px; }
-
+.logo-img{
+  height: 60px;
+}
 .border-w-2 {
   border-width: 2px; }
 
