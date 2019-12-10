@@ -1725,7 +1725,7 @@ h1, h2, h3, h4, h5,
     .feature-29192-wrap .feature-29192.overlay-danger, .feature-29192-wrap .feature-29192.overlay-success, .feature-29192-wrap .feature-29192.overlay-warning {
       position: relative; }
       .feature-29192-wrap .feature-29192.overlay-danger:before, .feature-29192-wrap .feature-29192.overlay-success:before, .feature-29192-wrap .feature-29192.overlay-warning:before {
-        opacity: .9;
+        opacity: 0;
         content: "";
         position: absolute;
         width: 100%;
